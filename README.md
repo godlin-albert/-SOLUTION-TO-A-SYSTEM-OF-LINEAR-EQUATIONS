@@ -14,13 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-import os
-os.environ["OPENBLAS_NUM_THREADS"]="1" 
-import numpy as np 
-A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
-B=np.array([-9,4,-1])
-X=np.linalg.solve(A,B)
-print(X)
+
 <img width="1267" height="675" alt="image" src="https://github.com/user-attachments/assets/e4a33798-d018-4c8f-a517-14e315216af6" />
 
 
