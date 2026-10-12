@@ -23,7 +23,8 @@ X=np.linalg.solve(A,B)
 print(X)
 
 ## Output:
-[-4.  3. -2.]
+<img width="1317" height="852" alt="image" src="https://github.com/user-attachments/assets/ffa16a37-bd4f-4bf9-80fe-9dbf112f3241" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
